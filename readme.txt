@@ -4,4 +4,4 @@ I Love GIT!
 I love my home!
 shui a !
 test branch dev ;
-Creating a new branch is quick & simple.
+creating a new branch is quick AND simple.
